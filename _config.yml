@@ -1,0 +1,6 @@
+title: Bunpou
+remote_theme: "jekyll/minima@7d91bb5"
+minima:
+  skin: auto
+  nav_pages:
+    - huong-dan/index.md
